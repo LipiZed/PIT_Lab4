@@ -1,0 +1,11 @@
+C:\Users\komet\source\repos\PIT_Lab4\PIT_Lab4\obj\Debug\PIT_Lab4.csproj.AssemblyReference.cache
+C:\Users\komet\source\repos\PIT_Lab4\PIT_Lab4\obj\Debug\PIT_Lab4.Properties.Resources.resources
+C:\Users\komet\source\repos\PIT_Lab4\PIT_Lab4\obj\Debug\PIT_Lab4.csproj.GenerateResource.cache
+C:\Users\komet\source\repos\PIT_Lab4\PIT_Lab4\obj\Debug\PIT_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\komet\source\repos\PIT_Lab4\PIT_Lab4\bin\Debug\PIT_Lab4.exe.config
+C:\Users\komet\source\repos\PIT_Lab4\PIT_Lab4\bin\Debug\PIT_Lab4.exe
+C:\Users\komet\source\repos\PIT_Lab4\PIT_Lab4\bin\Debug\PIT_Lab4.pdb
+C:\Users\komet\source\repos\PIT_Lab4\PIT_Lab4\obj\Debug\PIT_Lab4.exe
+C:\Users\komet\source\repos\PIT_Lab4\PIT_Lab4\obj\Debug\PIT_Lab4.pdb
+C:\Users\komet\source\repos\PIT_Lab4\PIT_Lab4\obj\Debug\CircleFillApp.Form1.resources
+C:\Users\komet\source\repos\PIT_Lab4\PIT_Lab4\obj\Debug\CircleFillApp.CircleSizeForm.resources
