@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|C:\\Users\\komet\\source\\repos\\PIT_Lab4\\pit_lab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|solutionrelative:pit_lab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|C:\\Users\\komet\\source\\repos\\PIT_Lab4\\pit_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|solutionrelative:pit_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|C:\\Users\\komet\\source\\repos\\PIT_Lab4\\pit_lab4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|solutionrelative:pit_lab4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|c:\\users\\komet\\source\\repos\\pit_lab4\\pit_lab4\\circlesizeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|solutionrelative:pit_lab4\\circlesizeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|C:\\Users\\komet\\source\\repos\\PIT_Lab4\\pit_lab4\\circlesizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|solutionrelative:pit_lab4\\circlesizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|C:\\Users\\komet\\source\\repos\\PIT_Lab4\\pit_lab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|solutionrelative:pit_lab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|C:\\Users\\komet\\source\\repos\\PIT_Lab4\\pit_lab4\\circlesizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A708B-184E-4CC5-BEE2-CBFCB81C1A69}|PIT_Lab4\\PIT_Lab4.csproj|solutionrelative:pit_lab4\\circlesizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CircleSizeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\CircleSizeForm.Designer.cs",
+              "RelativeDocumentMoniker": "PIT_Lab4\\CircleSizeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\CircleSizeForm.Designer.cs",
+              "RelativeToolTip": "PIT_Lab4\\CircleSizeForm.Designer.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAmwDoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:21:58.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CircleSizeForm.cs",
+              "DocumentMoniker": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\CircleSizeForm.cs",
+              "RelativeDocumentMoniker": "PIT_Lab4\\CircleSizeForm.cs",
+              "ToolTip": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\CircleSizeForm.cs",
+              "RelativeToolTip": "PIT_Lab4\\CircleSizeForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:21:43.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CircleSizeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\CircleSizeForm.cs",
+              "RelativeDocumentMoniker": "PIT_Lab4\\CircleSizeForm.cs",
+              "ToolTip": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\CircleSizeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PIT_Lab4\\CircleSizeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:21:39.078Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PIT_Lab4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\Form1.Designer.cs",
+              "RelativeToolTip": "PIT_Lab4\\Form1.Designer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:16:13.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\Form1.cs",
+              "RelativeDocumentMoniker": "PIT_Lab4\\Form1.cs",
+              "ToolTip": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\Form1.cs",
+              "RelativeToolTip": "PIT_Lab4\\Form1.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAA5wGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:11:20.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\Form1.cs",
+              "RelativeDocumentMoniker": "PIT_Lab4\\Form1.cs",
+              "ToolTip": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PIT_Lab4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:11:19.132Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "PIT_Lab4\\Program.cs",
+              "ToolTip": "C:\\Users\\komet\\source\\repos\\PIT_Lab4\\PIT_Lab4\\Program.cs",
+              "RelativeToolTip": "PIT_Lab4\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:02:07.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -28,7 +28,7 @@ namespace CircleFillApp
             // 
             this.selectColorButton.Location = new System.Drawing.Point(12, 12);
             this.selectColorButton.Name = "selectColorButton";
-            this.selectColorButton.Size = new System.Drawing.Size(120, 40);
+            this.selectColorButton.Size = new System.Drawing.Size(132, 52);
             this.selectColorButton.TabIndex = 0;
             this.selectColorButton.Text = "Выбрать цвет";
             this.selectColorButton.UseVisualStyleBackColor = true;
@@ -38,7 +38,7 @@ namespace CircleFillApp
             // 
             this.changeSizeButton.Location = new System.Drawing.Point(150, 12);
             this.changeSizeButton.Name = "changeSizeButton";
-            this.changeSizeButton.Size = new System.Drawing.Size(120, 40);
+            this.changeSizeButton.Size = new System.Drawing.Size(125, 52);
             this.changeSizeButton.TabIndex = 1;
             this.changeSizeButton.Text = "Изменить размер";
             this.changeSizeButton.UseVisualStyleBackColor = true;
